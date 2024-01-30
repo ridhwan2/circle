@@ -12,4 +12,5 @@ A C++ program that . . . moves your mouse in a circle.
 
 ## Misc
 > [MIT](https://opensource.org/license/mit/)  2023 Ridhwan
+> 
 > I do not care in the slightest what you decide to do with this program.
