@@ -8,9 +8,9 @@ A C++ program that . . . moves your mouse in a circle.
 - Optionally, you may download the source code to make changes as you like.
 
 ## Credits
-- None
+- [neal.fun](https://neal.fun/perfect-circle/)
 
 ## Misc
 > [MIT](https://opensource.org/license/mit/)  2024 Ridhwan
 > 
-> I do not care in the slightest what you decide to do with this program.
+> Yes, I made this just to get a perfect circle on the game.
