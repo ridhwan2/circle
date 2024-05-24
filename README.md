@@ -1,5 +1,6 @@
 # About
 A C++ program that . . . moves your mouse in a circle.
+
 [![Screenshot-2024-05-23-221613.png](https://i.postimg.cc/T1gY0dVg/Screenshot-2024-05-23-221613.png)](https://postimg.cc/2LjD8fXS)
 
 ## Installation
