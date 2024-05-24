@@ -12,5 +12,3 @@ A C++ program that . . . moves your mouse in a circle.
 
 ## Misc
 > [MIT](https://opensource.org/license/mit/)  2024 Ridhwan
-> 
-> Yes, I made this just to get a perfect circle on the game.
